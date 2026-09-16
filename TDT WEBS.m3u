@@ -41,39 +41,39 @@
 "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Clan_2026.svg",
 "url": "https://www.rtve.es/play/videos/directo/canales-lineales/clan/"},
 
-{"name": "SOMOS CINE",
+{"name": "SOMOS CINE (RTVE)",
 "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_de_RTVE.jpg",
 "url": "https://www.rtve.es/play/videos/directo/canales-lineales/play-somoscine/"},
 
-{"name": "LA PROMESA",
+{"name": "LA PROMESA (RTVE)",
 "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_de_RTVE.jpg",
 "url": "https://www.rtve.es/play/videos/directo/canales-lineales/play-promesa/"},
 
-{"name": "LA MODERNA",
+{"name": "LA MODERNA (RTVE)",
 "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_de_RTVE.jpg",
 "url": "https://www.rtve.es/play/videos/directo/canales-lineales/play-lamoderna/"},
 
-{"name": "CUENTAME",
+{"name": "CUENTAME (RTVE)",
 "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_de_RTVE.jpg",
 "url": "https://www.rtve.es/play/videos/directo/canales-rtve/play-cuentame/"},
 
-{"name": "LA REVUELTA",
+{"name": "LA REVUELTA (RTVE)",
 "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_de_RTVE.jpg",
 "url": "https://www.rtve.es/play/videos/directo/rtve-play/play-larevuelta/"},
 
-{"name": "SABER Y GANAR",
+{"name": "SABER Y GANAR (RTVE)",
 "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_de_RTVE.jpg",
 "url": "https://www.rtve.es/play/videos/directo/canales-rtve/play-saberyganar/"},
 
-{"name": "COCINA",
+{"name": "COCINA (RTVE)",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwwhDS3TA0NZDyWoS2DFBrXZEZlqjufjJ4Jw&s",
 "url": "https://www.rtve.es/play/videos/directo/canales-lineales/play-cocina/"},
 
-{"name": "CONCIERTOS R3",
+{"name": "CONCIERTOS R3 (RTVE)",
 "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/RNE_Radio_3_2026.svg",
 "url": "https://www.rtve.es/play/videos/directo/canales-rtve/conciertos-radio-3/"},
 
-{"name": "PROCESIONES",
+{"name": "PROCESIONES (RTVE)",
 "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_de_RTVE.jpg",
 "url": "https://www.rtve.es/play/videos/directo/canales-lineales/play-procesiones/"},
 
@@ -88,6 +88,94 @@
 {"name": "ANTENA3",
 "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Antena_3_2025_%28sin_wordmark%29.svg",
 "url": "https://www.atresplayer.com/directos/antena3/"},
+
+{"name": "ATRESERIES",
+"image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Atreseries_2020_logo.svg",
+"url": "https://www.atresplayer.com/directos/atreseries/"},
+
+{"name": "NEOX",
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Neox_2023_logo.svg",
+"url": "https://www.atresplayer.com/directos/neox/"},
+
+{"name": "NOVA",
+"image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Nova.svg",
+"url": "https://www.atresplayer.com/directos/nova/"},
+
+{"name": "MEGA",
+"image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/MEGA.svg",
+"url": "https://www.atresplayer.com/directos/mega/"},
+
+{"name": "LA SEXTA",
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/75/LaSexta_2024_Logo.svg",
+"url": "https://www.atresplayer.com/directos/lasexta/"},
+
+{"name": "CLASICOS (ATRESPLAYER)",
+"image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Atresplayer_2023_Logo.svg",
+"url": "https://www.atresplayer.com/directos/clasicos/"},
+
+{"name": "MULTICINE (ATRESPLAYER)",
+"image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Atresplayer_2023_Logo.svg",
+"url": "https://www.atresplayer.com/directos/multicine/"},
+
+{"name": "COMEDIA (ATRESPLAYER)",
+"image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Atresplayer_2023_Logo.svg",
+"url": "https://www.atresplayer.com/directos/comedia/"},
+
+{"name": "INQUIETOS (ATRESPLAYER)",
+"image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Atresplayer_2023_Logo.svg",
+"url": "https://www.atresplayer.com/directos/mentes-inquietas/"},
+
+{"name": "FLOOXER (ATRESPLAYER)",
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Logo_Flooxer.png",
+"url": "https://www.atresplayer.com/directos/canal-flooxer/"},
+
+{"name": "KIDZ (ATRESPLAYER)",
+"image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Atresplayer_2023_Logo.svg",
+"url": "https://www.atresplayer.com/directos/canal-kidz/"},
+
+{"name": "AQUI NO HAY QUIEN VIVA (ATRESPLAYER)",
+"image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Atresplayer_2023_Logo.svg",
+"url": "https://www.atresplayer.com/directos/aqui-no-hay-quien-viva/"},
+
+{"name": "FISICA O QUIMICA (ATRESPLAYER)",
+"image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Atresplayer_2023_Logo.svg",
+"url": "https://www.atresplayer.com/directos/foq/"},
+
+{"name": "EL HORMIGUERO (ATRESPLAYER)",
+"image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Atresplayer_2023_Logo.svg",
+"url": "https://www.atresplayer.com/directos/el-hormiguero/"},
+
+{"name": "EL CLUB DE LA COMEDIA (ATRESPLAYER)",
+"image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Atresplayer_2023_Logo.svg",
+"url": "https://www.atresplayer.com/directos/el-club-de-la-comedia/"},
+
+{"name": "EQUIPO DE INVESTIGACION (ATRESPLAYER)",
+"image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Atresplayer_2023_Logo.svg",
+"url": "https://www.atresplayer.com/directos/equipo-de-investigacion/"},
+
+{"name": "INTER2 (VPN)",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "http://31.43.191.125:8080/get.php?username=VIP013771759054221388&password=f95292285a08&type=m3u_plus"},
+
+{"name": "INTER2 (VPN)",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "http://31.43.191.125:8080/get.php?username=VIP0147177252162799&password=ckrfhabv757m&type=m3u_plus"},
+
+{"name": "INTER2 (VPN)",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "http://31.43.191.125:8080/get.php?username=VIP013771759054221388&password=f95292285a08&type=m3u_plus"},
+
+{"name": "INTER2 (VPN)",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "http://31.43.191.125:8080/get.php?username=VIP0147177252162799&password=ckrfhabv757m&type=m3u_plus"},
+
+{"name": "INTER2 (VPN)",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "http://31.43.191.125:8080/get.php?username=VIP013771759054221388&password=f95292285a08&type=m3u_plus"},
+
+{"name": "INTER2 (VPN)",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "http://31.43.191.125:8080/get.php?username=VIP0147177252162799&password=ckrfhabv757m&type=m3u_plus"},
 
 {"name": "INTER2 (VPN)",
 "image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
