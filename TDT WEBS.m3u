@@ -1,0 +1,94 @@
+{"name": "TDT ESPAÑA WEBS",
+"author": "SuperVectar",
+"url": "",
+"image": "https://i.ibb.co/rK7VqKk8/tv.png",
+"telegram": "",
+"groups": [
+
+{ "name": "RTVE (WEB)",
+"image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_RTVE.svg",
+"url": "https://www.rtve.es/play/" },
+
+{ "name": "RTVE (GUIA)",
+"image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_RTVE.svg",
+"url": "https://www.rtve.es/play/guia-tve/" },
+
+{"name": "LA 1",
+"image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/La_1_2026.svg",
+"url": "https://www.rtve.es/play/videos/directo/canales-lineales/la-1/"},
+
+{"name": "LA 2",
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/La_2_2026.svg",
+"url": "https://www.rtve.es/play/videos/directo/canales-lineales/la-2/"},
+
+{"name": "24H",
+"image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/24h_2026.svg",
+"url": "https://www.rtve.es/play/videos/directo/canales-lineales/24h/"},
+
+{"name": "TDP",
+"image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/TDP_2026.svg",
+"url": "https://www.rtve.es/play/videos/directo/canales-lineales/tdp/"},
+
+{"name": "CLAN",
+"image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Clan_2026.svg",
+"url": "https://www.rtve.es/play/videos/directo/canales-lineales/clan/"},
+
+{"name": "INTER (VPN)",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "http://mitv.netinc.org:8691/get.php?username=697222878p9&password=Sw4qyXXVUTEH&type=m3u_plus"},
+
+{"name": "INTER (VPN)",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "http://mitv.netinc.org:8691/get.php?username=662131618&password=c7sKefeytryga&type=m3u_plus"},
+
+{"name": "ES1 M+ (VPN)",
+"image": "https://i.ibb.co/271t3Jms/espa.png",
+"url": "http://dejatedemamadas.neospaxy.top:8080/get.php?username=Pacodrogueria&password=1234&type=m3u_plus"},
+
+{"name": "INTER1 (VPN)",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "http://dejatedemamadas.neospaxy.top:8080/get.php?username=5791733259532628&password=ca8b0af9c493&type=m3u_plus"},
+
+{"name": "INTER1 (VPN)",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "http://dejatedemamadas.neospaxy.top:8080/get.php?username=5991744053771707&password=a47f0dcb187f&type=m3u_plus"},
+
+{"name": "INTER1 (VPN)",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "http://dejatedemamadas.neospaxy.top:8080/get.php?username=9491760461608519&password=dfeac7d38279&type=m3u_plus"},
+
+{"name": "INTER1 (VPN)",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "http://dejatedemamadas.neospaxy.top:8080/get.php?username=521744563542711&password=4667d1241c48&type=m3u_plus"},
+
+{"name": "INTER1 (VPN)",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "http://dejatedemamadas.neospaxy.top:8080/get.php?username=4341758954331622&password=8ae055297092&type=m3u_plus"},
+
+{"name": "INTER1 (VPN)",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "http://dejatedemamadas.neospaxy.top:8080/get.php?username=481732659485623&password=566a26754945&type=m3u_plus"},
+
+{"name": "INTER1 (VPN)",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "http://dejatedemamadas.neospaxy.top:8080/get.php?username=80175864214468&password=zj34aartyqrg&type=m3u_plus"},
+
+{"name": "INTER1 (VPN)",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "http://dejatedemamadas.neospaxy.top:8080/get.php?username=541727084118181&password=fba3627a5b69&type=m3u_plus"},
+
+{"name": "INTER2 (VPN)",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "http://31.43.191.125:8080/get.php?username=VIP01219172720242899&password=3bb112b250a7&type=m3u_plus"},
+
+{"name": "INTER2 (VPN)",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "http://31.43.191.125:8080/get.php?username=VIP013771759054221388&password=f95292285a08&type=m3u_plus"},
+
+{"name": "INTER2 (VPN)",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "http://31.43.191.125:8080/get.php?username=VIP0147177252162799&password=ckrfhabv757m&type=m3u_plus"},
+
+{"name": "INTER2 (VPN)",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "http://31.43.191.125:8080/get.php?username=VIP0143176598131858&password=2v6yyiwbs4fi&type=m3u_plus"}]}
