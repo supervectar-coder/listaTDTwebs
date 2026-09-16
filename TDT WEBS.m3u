@@ -5,6 +5,14 @@
 "telegram": "",
 "groups": [
 
+{"name": "ALGUNAS WEBS REQUIERE ESTAR REGISTRADO",
+"image": "https://i.ibb.co/HT5Jhcfw/info.jpg",
+"url": "https://www.google.com/"},
+
+{"name": "EN ANDROID TV UTILIZA UN RATON DE ORDENADOR O LA FUNCION RATON",
+"image": "https://i.ibb.co/HT5Jhcfw/info.jpg",
+"url": "https://www.google.com/"},
+
 { "name": "RTVE (WEB)",
 "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_RTVE.svg",
 "url": "https://www.rtve.es/play/" },
