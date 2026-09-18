@@ -91,7 +91,7 @@
       "name": "LA MODERNA (RTVE)",
       "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
       "url": "https://www.rtve.es/play/videos/directo/canales-lineales/play-lamoderna/",
-      "tvg-id": "La Moderna HD",
+      "tvg-id": "La Moderna",
       "tvg-name": "La Moderna"
     },
 
@@ -115,7 +115,7 @@
       "name": "SABER Y GANAR (RTVE)",
       "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
       "url": "https://www.rtve.es/play/videos/directo/canales-rtve/play-saberyganar/",
-      "tvg-id": "Saber y Ganar HD",
+      "tvg-id": "Saber y Ganar",
       "tvg-name": "Saber y Ganar"
     },
 
@@ -131,7 +131,7 @@
       "name": "CONCIERTOS R3 (RTVE)",
       "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
       "url": "https://www.rtve.es/play/videos/directo/canales-rtve/conciertos-radio-3/",
-      "tvg-id": "Los Conciertos de Radio 3 HD",
+      "tvg-id": "Los Conciertos de Radio 3",
       "tvg-name": "Conciertos Radio 3"
     },
 
@@ -139,7 +139,7 @@
       "name": "PROCESIONES (RTVE)",
       "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
       "url": "https://www.rtve.es/play/videos/directo/canales-lineales/play-procesiones/",
-      "tvg-id": "procesiones.es",
+      "tvg-id": "Procesiones",
       "tvg-name": "Procesiones"
     },
 
@@ -207,7 +207,7 @@
       "name": "CLASICOS (ATRESPLAYER)",
       "image": "https://i.ibb.co/FbSs2zgV/a3p.png",
       "url": "https://www.atresplayer.com/directos/clasicos/",
-      "tvg-id": "Clásicos atresplayer HD",
+      "tvg-id": "Clásicos atresplayer",
       "tvg-name": "Clásicos"
     },
 
@@ -215,7 +215,7 @@
       "name": "MULTICINE (ATRESPLAYER)",
       "image": "https://i.ibb.co/FbSs2zgV/a3p.png",
       "url": "https://www.atresplayer.com/directos/multicine/",
-      "tvg-id": "Multicine atresplayer HD",
+      "tvg-id": "Multicine atresplayer",
       "tvg-name": "Multicine"
     },
 
@@ -223,7 +223,7 @@
       "name": "COMEDIA (ATRESPLAYER)",
       "image": "https://i.ibb.co/FbSs2zgV/a3p.png",
       "url": "https://www.atresplayer.com/directos/comedia/",
-      "tvg-id": "Comedia atresplayer HD",
+      "tvg-id": "Comedia atresplayer",
       "tvg-name": "Comedia"
     },
 
@@ -231,7 +231,7 @@
       "name": "INQUIETOS (ATRESPLAYER)",
       "image": "https://i.ibb.co/FbSs2zgV/a3p.png",
       "url": "https://www.atresplayer.com/directos/mentes-inquietas/",
-      "tvg-id": "Inquietos atresplayer HD",
+      "tvg-id": "Inquietos atresplayer",
       "tvg-name": "Inquietos"
     },
 
@@ -255,7 +255,7 @@
       "name": "AQUI NO HAY QUIEN VIVA (ATRESPLAYER)",
       "image": "https://i.ibb.co/FbSs2zgV/a3p.png",
       "url": "https://www.atresplayer.com/directos/aqui-no-hay-quien-viva/",
-      "tvg-id": "Aquí no hay quién viva HD",
+      "tvg-id": "Aquí no hay quién viva",
       "tvg-name": "Aquí No Hay Quien Viva"
     },
 
@@ -263,7 +263,7 @@
       "name": "FISICA O QUIMICA (ATRESPLAYER)",
       "image": "https://i.ibb.co/FbSs2zgV/a3p.png",
       "url": "https://www.atresplayer.com/directos/foq/",
-      "tvg-id": "FoQ HD",
+      "tvg-id": "FoQ",
       "tvg-name": "Física o Química"
     },
 
@@ -323,7 +323,7 @@
       "name": "FDF",
       "image": "https://i.ibb.co/prrmQ1D6/fdf.png",
       "url": "https://www.mediasetinfinity.es/directo/fdf/",
-      "tvg-id": "Factoría de Ficción HD",
+      "tvg-id": "Factoría de Ficción",
       "tvg-name": "FDF"
     },
 
@@ -363,7 +363,7 @@
       "name": "COMEDIA (INFINITY)",
       "image": "https://i.ibb.co/67gn4csv/infinity.png",
       "url": "https://www.mediasetinfinity.es/directo/mitele-comedia/",
-      "tvg-id": "Infinity Comedia HD",
+      "tvg-id": "Infinity Comedia",
       "tvg-name": "Comedia"
     },
 
@@ -371,7 +371,7 @@
       "name": "EN LA CALLE (INFINITY)",
       "image": "https://i.ibb.co/67gn4csv/infinity.png",
       "url": "https://www.mediasetinfinity.es/directo/mitele-en-la-calle/",
-      "tvg-id": "Infinity En la calle HD",
+      "tvg-id": "Infinity En la calle",
       "tvg-name": "En La Calle"
     },
 
@@ -379,7 +379,7 @@
       "name": "VIAJES (INFINITY)",
       "image": "https://i.ibb.co/67gn4csv/infinity.png",
       "url": "https://www.mediasetinfinity.es/directo/mitele-viajes/",
-      "tvg-id": "Infinity Viajes HD",
+      "tvg-id": "Infinity Viajes",
       "tvg-name": "Viajes"
     },
 
@@ -387,7 +387,7 @@
       "name": "TOP SERIES (INFINITY)",
       "image": "https://i.ibb.co/67gn4csv/infinity.png",
       "url": "https://www.mediasetinfinity.es/directo/mitele-top-series/",
-      "tvg-id": "Infinity Top Series HD",
+      "tvg-id": "Infinity Top Series",
       "tvg-name": "Top Series"
     },
 
@@ -395,7 +395,7 @@
       "name": "LA QUE SE AVECINA (INFINITY+)",
       "image": "https://i.ibb.co/67gn4csv/infinity.png",
       "url": "https://www.mediasetinfinity.es/directo/mitele-plus-lqsa/",
-      "tvg-id": "Infinity+ LQSA HD",
+      "tvg-id": "Infinity+ LQSA",
       "tvg-name": "Top Series"
     },
 
@@ -403,7 +403,7 @@
       "name": "ACONTRA+ 24H (INFINITY+)",
       "image": "https://i.ibb.co/67gn4csv/infinity.png",
       "url": "https://www.mediasetinfinity.es/directo/acontraplus/",
-      "tvg-id": "acontra+ HD",
+      "tvg-id": "acontra+",
       "tvg-name": "Top Series"
     },
 
@@ -411,7 +411,7 @@
       "name": "FIGHT SPORTS (INFINITY+)",
       "image": "https://i.ibb.co/67gn4csv/infinity.png",
       "url": "https://www.mediasetinfinity.es/directo/fight-sports/",
-      "tvg-id": "FightSports HD",
+      "tvg-id": "FightSports",
       "tvg-name": "Top Series"
     },
 
@@ -429,14 +429,7 @@
       "url": "https://www.mtmad.es/endirecto/",
       "tvg-id": "mtmad.es",
       "tvg-name": "MTMAD"
-    },
-
-    {
-      "name": "DMAX",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/DMAX_Spain_2023_Logo.svg",
-      "url": "https://dmax.marca.com/series/evidencias-de-lo-inexplicable?play=true",
-      "tvg-id": "DMAX HD",
-      "tvg-name": "DMAX"
     }
+
   ]
 }
