@@ -112,35 +112,51 @@
     },
 
     {
+      "name": "EN PLAY (RTVE)",
+      "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
+      "url": "https://www.rtve.es/play/videos/directo/canales-lineales/play-enplay/",
+      "tvg-id": "En Play HD",
+      "tvg-name": "En Play"
+    },
+
+    {
+      "name": "AL CIELO CON ELLA (RTVE)",
+      "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
+      "url": "https://www.rtve.es/play/videos/directo/canales-lineales/play-alcieloconella/",
+      "tvg-id": "Al cielo con ella HD",
+      "tvg-name": "Al cielo con ella"
+    },
+
+    {
+      "name": "SAN SEBASTIAN FEST (RTVE)",
+      "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
+      "url": "https://www.rtve.es/play/videos/directo/canales-lineales/play-sansebastianfes/",
+      "tvg-id": "San sebastian fes",
+      "tvg-name": "San sebastian fes"
+    },
+
+    {
+      "name": "RNE PARA TODOS (RTVE)",
+      "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
+      "url": "https://www.rtve.es/play/videos/directo/canales-lineales/rne-para-todos/",
+      "tvg-id": "Rne",
+      "tvg-name": "Rne"
+    },
+
+    {
+      "name": "RADIO3 (RTVE)",
+      "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
+      "url": "https://www.rtve.es/play/videos/directo/canales-lineales/radio-3-webcam/",
+      "tvg-id": "Radio 3",
+      "tvg-name": "Radio 3"
+    },
+
+    {
       "name": "CONCIERTOS R3 (RTVE)",
       "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
       "url": "https://www.rtve.es/play/videos/directo/canales-rtve/conciertos-radio-3/",
       "tvg-id": "Los Conciertos de Radio 3",
       "tvg-name": "Conciertos Radio 3"
-    },
-
-    {
-      "name": "LA MODERNA (RTVE)",
-      "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
-      "url": "https://www.rtve.es/play/videos/directo/canales-lineales/play-lamoderna/",
-      "tvg-id": "La Moderna",
-      "tvg-name": "La Moderna"
-    },
-
-    {
-      "name": "SABER Y GANAR (RTVE)",
-      "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
-      "url": "https://www.rtve.es/play/videos/directo/canales-rtve/play-saberyganar/",
-      "tvg-id": "Saber y Ganar",
-      "tvg-name": "Saber y Ganar"
-    },
-
-    {
-      "name": "PROCESIONES (RTVE)",
-      "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
-      "url": "https://www.rtve.es/play/videos/directo/canales-lineales/play-procesiones/",
-      "tvg-id": "Procesiones",
-      "tvg-name": "Procesiones"
     },
 
     {
@@ -396,7 +412,7 @@
       "image": "https://i.ibb.co/67gn4csv/infinity.png",
       "url": "https://www.mediasetinfinity.es/directo/mitele-plus-lqsa/",
       "tvg-id": "Infinity+ LQSA",
-      "tvg-name": "Top Series"
+      "tvg-name": "Infinity+ LQSA"
     },
 
     {
@@ -404,7 +420,7 @@
       "image": "https://i.ibb.co/67gn4csv/infinity.png",
       "url": "https://www.mediasetinfinity.es/directo/acontraplus/",
       "tvg-id": "acontra+",
-      "tvg-name": "Top Series"
+      "tvg-name": "acontra+"
     },
 
     {
@@ -412,7 +428,7 @@
       "image": "https://i.ibb.co/67gn4csv/infinity.png",
       "url": "https://www.mediasetinfinity.es/directo/fight-sports/",
       "tvg-id": "FightSports",
-      "tvg-name": "Top Series"
+      "tvg-name": "FightSports"
     },
 
     {
