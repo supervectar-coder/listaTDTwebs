@@ -308,6 +308,22 @@
     },
 
     {
+      "name": "ATRESPLAYER (ATRESPLAYER)",
+      "image": "https://i.ibb.co/FbSs2zgV/a3p.png",
+      "url": "https://www.atresplayer.com/directos/de-la-fuente-rueda-de-prensa-seleccion-espana/",
+      "tvg-id": "Atresplayer",
+      "tvg-name": "Atresplayer"
+    },
+
+    {
+      "name": "PREMIUM (ATRESPLAYER)",
+      "image": "https://i.ibb.co/FbSs2zgV/a3p.png",
+      "url": "https://www.atresplayer.com/directos/atresplayer-premium/",
+      "tvg-id": "Premium",
+      "tvg-name": "Premium"
+    },
+
+    {
       "name": "MEDIASET INFINITY (WEB)",
       "image": "https://i.ibb.co/d4QC3WLY/descarga.jpg",
       "url": "https://www.mediasetinfinity.es/"
