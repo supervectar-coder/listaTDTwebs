@@ -88,14 +88,6 @@
     },
 
     {
-      "name": "LA MODERNA (RTVE)",
-      "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
-      "url": "https://www.rtve.es/play/videos/directo/canales-lineales/play-lamoderna/",
-      "tvg-id": "La Moderna",
-      "tvg-name": "La Moderna"
-    },
-
-    {
       "name": "CUENTAME (RTVE)",
       "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
       "url": "https://www.rtve.es/play/videos/directo/canales-rtve/play-cuentame/",
@@ -112,14 +104,6 @@
     },
 
     {
-      "name": "SABER Y GANAR (RTVE)",
-      "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
-      "url": "https://www.rtve.es/play/videos/directo/canales-rtve/play-saberyganar/",
-      "tvg-id": "Saber y Ganar",
-      "tvg-name": "Saber y Ganar"
-    },
-
-    {
       "name": "COCINA (RTVE)",
       "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
       "url": "https://www.rtve.es/play/videos/directo/canales-lineales/play-cocina/",
@@ -133,6 +117,22 @@
       "url": "https://www.rtve.es/play/videos/directo/canales-rtve/conciertos-radio-3/",
       "tvg-id": "Los Conciertos de Radio 3",
       "tvg-name": "Conciertos Radio 3"
+    },
+
+    {
+      "name": "LA MODERNA (RTVE)",
+      "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
+      "url": "https://www.rtve.es/play/videos/directo/canales-lineales/play-lamoderna/",
+      "tvg-id": "La Moderna",
+      "tvg-name": "La Moderna"
+    },
+
+    {
+      "name": "SABER Y GANAR (RTVE)",
+      "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
+      "url": "https://www.rtve.es/play/videos/directo/canales-rtve/play-saberyganar/",
+      "tvg-id": "Saber y Ganar",
+      "tvg-name": "Saber y Ganar"
     },
 
     {
@@ -419,7 +419,7 @@
       "name": "MTMAD 24H",
       "image": "https://album.mediaset.es/eimg/2017/11/03/NZSCufOaaYWMHg2Z9soic6.jpg?w=1200&h=900",
       "url": "https://www.mediasetinfinity.es/directo/mtmad-24h/",
-      "tvg-id": "mtmad24h.es",
+      "tvg-id": "Mtmad HD",
       "tvg-name": "MTMAD 24H"
     },
 
@@ -427,7 +427,7 @@
       "name": "MTMAD",
       "image": "https://album.mediaset.es/eimg/2017/11/03/NZSCufOaaYWMHg2Z9soic6.jpg?w=1200&h=900",
       "url": "https://www.mtmad.es/endirecto/",
-      "tvg-id": "mtmad.es",
+      "tvg-id": "Mtmad",
       "tvg-name": "MTMAD"
     }
 
