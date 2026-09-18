@@ -35,7 +35,7 @@
       "name": "LA 1",
       "image": "https://i.ibb.co/MyYm8wWs/la1.png",
       "url": "https://www.rtve.es/play/videos/directo/canales-lineales/la-1/",
-      "tvg-id": "M+ Comedia HD",
+      "tvg-id": "La 1 HD",
       "tvg-name": "La 1"
     },
 
@@ -43,7 +43,7 @@
       "name": "LA 2",
       "image": "https://i.ibb.co/1YryHLYM/la2.png",
       "url": "https://www.rtve.es/play/videos/directo/canales-lineales/la-2/",
-      "tvg-id": "La 2",
+      "tvg-id": "La 2 HD",
       "tvg-name": "La 2"
     },
 
@@ -51,7 +51,7 @@
       "name": "24H",
       "image": "https://i.ibb.co/V61G8dj/24h.png",
       "url": "https://www.rtve.es/play/videos/directo/canales-lineales/24h/",
-      "tvg-id": "24h.es",
+      "tvg-id": "24 Horas HD",
       "tvg-name": "24 Horas"
     },
 
@@ -59,7 +59,7 @@
       "name": "TDP",
       "image": "https://i.ibb.co/Jw515pWZ/teledeporte.png",
       "url": "https://www.rtve.es/play/videos/directo/canales-lineales/tdp/",
-      "tvg-id": "teledeporte.es",
+      "tvg-id": "teledeporte HD",
       "tvg-name": "Teledeporte"
     },
 
@@ -67,7 +67,7 @@
       "name": "CLAN",
       "image": "https://i.ibb.co/1YfPqxLH/clan.png",
       "url": "https://www.rtve.es/play/videos/directo/canales-lineales/clan/",
-      "tvg-id": "clan.es",
+      "tvg-id": "Clan HD",
       "tvg-name": "Clan"
     },
 
@@ -75,7 +75,7 @@
       "name": "SOMOS CINE (RTVE)",
       "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
       "url": "https://www.rtve.es/play/videos/directo/canales-lineales/play-somoscine/",
-      "tvg-id": "somoscine.es",
+      "tvg-id": "Somos Cine HD",
       "tvg-name": "Somos Cine"
     },
 
@@ -83,7 +83,7 @@
       "name": "LA PROMESA (RTVE)",
       "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
       "url": "https://www.rtve.es/play/videos/directo/canales-lineales/play-promesa/",
-      "tvg-id": "lapromesa.es",
+      "tvg-id": "La Promesa HD",
       "tvg-name": "La Promesa"
     },
 
@@ -91,7 +91,7 @@
       "name": "LA MODERNA (RTVE)",
       "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
       "url": "https://www.rtve.es/play/videos/directo/canales-lineales/play-lamoderna/",
-      "tvg-id": "lamoderna.es",
+      "tvg-id": "La Moderna HD",
       "tvg-name": "La Moderna"
     },
 
@@ -99,7 +99,7 @@
       "name": "CUENTAME (RTVE)",
       "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
       "url": "https://www.rtve.es/play/videos/directo/canales-rtve/play-cuentame/",
-      "tvg-id": "cuentame.es",
+      "tvg-id": "Cuéntame HD",
       "tvg-name": "Cuéntame"
     },
 
@@ -107,7 +107,7 @@
       "name": "LA REVUELTA (RTVE)",
       "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
       "url": "https://www.rtve.es/play/videos/directo/rtve-play/play-larevuelta/",
-      "tvg-id": "larevuelta.es",
+      "tvg-id": "La Revuelta HD",
       "tvg-name": "La Revuelta"
     },
 
@@ -115,7 +115,7 @@
       "name": "SABER Y GANAR (RTVE)",
       "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
       "url": "https://www.rtve.es/play/videos/directo/canales-rtve/play-saberyganar/",
-      "tvg-id": "saberyganar.es",
+      "tvg-id": "Saber y Ganar HD",
       "tvg-name": "Saber y Ganar"
     },
 
@@ -123,7 +123,7 @@
       "name": "COCINA (RTVE)",
       "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
       "url": "https://www.rtve.es/play/videos/directo/canales-lineales/play-cocina/",
-      "tvg-id": "cocina.es",
+      "tvg-id": "Cocina HD",
       "tvg-name": "Cocina"
     },
 
@@ -131,7 +131,7 @@
       "name": "CONCIERTOS R3 (RTVE)",
       "image": "https://i.ibb.co/1fDXHcBg/rtve.png",
       "url": "https://www.rtve.es/play/videos/directo/canales-rtve/conciertos-radio-3/",
-      "tvg-id": "radio3.es",
+      "tvg-id": "Los Conciertos de Radio 3 HD",
       "tvg-name": "Conciertos Radio 3"
     },
 
@@ -159,7 +159,7 @@
       "name": "ANTENA3",
       "image": "https://i.ibb.co/Kcyr3NG7/a3.png",
       "url": "https://www.atresplayer.com/directos/antena3/",
-      "tvg-id": "Antena 3",
+      "tvg-id": "Antena 3 HD",
       "tvg-name": "Antena 3"
     },
 
@@ -167,7 +167,7 @@
       "name": "ATRESERIES",
       "image": "https://i.ibb.co/84gVNrcW/a3s.png",
       "url": "https://www.atresplayer.com/directos/atreseries/",
-      "tvg-id": "atreseries.es",
+      "tvg-id": "Atreseries HD",
       "tvg-name": "Atreseries"
     },
 
@@ -175,7 +175,7 @@
       "name": "NEOX",
       "image": "https://i.ibb.co/1YwQsphP/Neo.png",
       "url": "https://www.atresplayer.com/directos/neox/",
-      "tvg-id": "neox.es",
+      "tvg-id": "Neox HD",
       "tvg-name": "Neox"
     },
 
@@ -183,7 +183,7 @@
       "name": "NOVA",
       "image": "https://i.ibb.co/cWNT4jS/Nov.png",
       "url": "https://www.atresplayer.com/directos/nova/",
-      "tvg-id": "nova.es",
+      "tvg-id": "Nova HD",
       "tvg-name": "Nova"
     },
 
@@ -191,7 +191,7 @@
       "name": "MEGA",
       "image": "https://i.ibb.co/WvTK9DRz/MEGA.png",
       "url": "https://www.atresplayer.com/directos/mega/",
-      "tvg-id": "mega.es",
+      "tvg-id": "Mega HD",
       "tvg-name": "Mega"
     },
 
@@ -207,7 +207,7 @@
       "name": "CLASICOS (ATRESPLAYER)",
       "image": "https://i.ibb.co/FbSs2zgV/a3p.png",
       "url": "https://www.atresplayer.com/directos/clasicos/",
-      "tvg-id": "clasicos.es",
+      "tvg-id": "Clásicos atresplayer HD",
       "tvg-name": "Clásicos"
     },
 
@@ -215,7 +215,7 @@
       "name": "MULTICINE (ATRESPLAYER)",
       "image": "https://i.ibb.co/FbSs2zgV/a3p.png",
       "url": "https://www.atresplayer.com/directos/multicine/",
-      "tvg-id": "multicine.es",
+      "tvg-id": "Multicine atresplayer HD",
       "tvg-name": "Multicine"
     },
 
@@ -223,7 +223,7 @@
       "name": "COMEDIA (ATRESPLAYER)",
       "image": "https://i.ibb.co/FbSs2zgV/a3p.png",
       "url": "https://www.atresplayer.com/directos/comedia/",
-      "tvg-id": "comedia.es",
+      "tvg-id": "Comedia atresplayer HD",
       "tvg-name": "Comedia"
     },
 
@@ -231,7 +231,7 @@
       "name": "INQUIETOS (ATRESPLAYER)",
       "image": "https://i.ibb.co/FbSs2zgV/a3p.png",
       "url": "https://www.atresplayer.com/directos/mentes-inquietas/",
-      "tvg-id": "inquietos.es",
+      "tvg-id": "Inquietos atresplayer HD",
       "tvg-name": "Inquietos"
     },
 
@@ -239,7 +239,7 @@
       "name": "FLOOXER (ATRESPLAYER)",
       "image": "https://i.ibb.co/FbSs2zgV/a3p.png",
       "url": "https://www.atresplayer.com/directos/canal-flooxer/",
-      "tvg-id": "flooxer.es",
+      "tvg-id": "Flooxer HD",
       "tvg-name": "Flooxer"
     },
 
@@ -247,7 +247,7 @@
       "name": "KIDZ (ATRESPLAYER)",
       "image": "https://i.ibb.co/FbSs2zgV/a3p.png",
       "url": "https://www.atresplayer.com/directos/canal-kidz/",
-      "tvg-id": "kidz.es",
+      "tvg-id": "Kidz HD",
       "tvg-name": "Kidz"
     },
 
@@ -255,7 +255,7 @@
       "name": "AQUI NO HAY QUIEN VIVA (ATRESPLAYER)",
       "image": "https://i.ibb.co/FbSs2zgV/a3p.png",
       "url": "https://www.atresplayer.com/directos/aqui-no-hay-quien-viva/",
-      "tvg-id": "aqnhqv.es",
+      "tvg-id": "Aquí no hay quién viva HD",
       "tvg-name": "Aquí No Hay Quien Viva"
     },
 
@@ -263,7 +263,7 @@
       "name": "FISICA O QUIMICA (ATRESPLAYER)",
       "image": "https://i.ibb.co/FbSs2zgV/a3p.png",
       "url": "https://www.atresplayer.com/directos/foq/",
-      "tvg-id": "foq.es",
+      "tvg-id": "FoQ HD",
       "tvg-name": "Física o Química"
     },
 
@@ -271,7 +271,7 @@
       "name": "EL HORMIGUERO (ATRESPLAYER)",
       "image": "https://i.ibb.co/FbSs2zgV/a3p.png",
       "url": "https://www.atresplayer.com/directos/el-hormiguero/",
-      "tvg-id": "elhormiguero.es",
+      "tvg-id": "El Hormiguero HD",
       "tvg-name": "El Hormiguero"
     },
 
@@ -279,7 +279,7 @@
       "name": "EL CLUB DE LA COMEDIA (ATRESPLAYER)",
       "image": "https://i.ibb.co/FbSs2zgV/a3p.png",
       "url": "https://www.atresplayer.com/directos/el-club-de-la-comedia/",
-      "tvg-id": "elclubdelacomedia.es",
+      "tvg-id": "El club de la comedia HD",
       "tvg-name": "El Club de la Comedia"
     },
 
@@ -287,7 +287,7 @@
       "name": "EQUIPO DE INVESTIGACION (ATRESPLAYER)",
       "image": "https://i.ibb.co/FbSs2zgV/a3p.png",
       "url": "https://www.atresplayer.com/directos/equipo-de-investigacion/",
-      "tvg-id": "equipoinvestigacion.es",
+      "tvg-id": "Equipo de investigación HD",
       "tvg-name": "Equipo de Investigación"
     },
 
@@ -307,7 +307,7 @@
       "name": "CUATRO",
       "image": "https://i.ibb.co/4ZWS6Zwm/cuatro.png",
       "url": "https://www.mediasetinfinity.es/directo/cuatro/",
-      "tvg-id": "Cuatro.TV",
+      "tvg-id": "Cuatro HD",
       "tvg-name": "Cuatro"
     },
 
@@ -315,7 +315,7 @@
       "name": "TELECINCO",
       "image": "https://i.ibb.co/TB2yj0DQ/tele5.png",
       "url": "https://www.mediasetinfinity.es/directo/telecinco/",
-      "tvg-id": "telecinco.es",
+      "tvg-id": "Telecinco HD",
       "tvg-name": "Telecinco"
     },
 
@@ -323,7 +323,7 @@
       "name": "FDF",
       "image": "https://i.ibb.co/prrmQ1D6/fdf.png",
       "url": "https://www.mediasetinfinity.es/directo/fdf/",
-      "tvg-id": "fdf.es",
+      "tvg-id": "Factoría de Ficción HD",
       "tvg-name": "FDF"
     },
 
@@ -331,7 +331,7 @@
       "name": "DIVINITY",
       "image": "https://i.ibb.co/YFj0svnk/Divinity.png",
       "url": "https://www.mediasetinfinity.es/directo/divinity/",
-      "tvg-id": "divinity.es",
+      "tvg-id": "Divinity HD",
       "tvg-name": "Divinity"
     },
 
@@ -339,7 +339,7 @@
       "name": "ENERGY",
       "image": "https://i.ibb.co/zWyVTBSQ/Energy.png",
       "url": "https://www.mediasetinfinity.es/directo/energy/",
-      "tvg-id": "energy.es",
+      "tvg-id": "Energy HD",
       "tvg-name": "Energy"
     },
 
@@ -347,7 +347,7 @@
       "name": "BMAD",
       "image": "https://i.ibb.co/hFD8W2cb/bmad.png",
       "url": "https://www.mediasetinfinity.es/directo/bemad/",
-      "tvg-id": "bemad.es",
+      "tvg-id": "Be Mad HD",
       "tvg-name": "Be Mad"
     },
 
@@ -355,7 +355,7 @@
       "name": "BOING",
       "image": "https://i.ibb.co/60fzMJtd/Boin.png",
       "url": "https://www.mediasetinfinity.es/directo/boing/",
-      "tvg-id": "boing.es",
+      "tvg-id": "Boing HD",
       "tvg-name": "Boing"
     },
 
@@ -363,7 +363,7 @@
       "name": "COMEDIA (INFINITY)",
       "image": "https://i.ibb.co/67gn4csv/infinity.png",
       "url": "https://www.mediasetinfinity.es/directo/mitele-comedia/",
-      "tvg-id": "comediainfinity.es",
+      "tvg-id": "Infinity Comedia HD",
       "tvg-name": "Comedia"
     },
 
@@ -371,7 +371,7 @@
       "name": "EN LA CALLE (INFINITY)",
       "image": "https://i.ibb.co/67gn4csv/infinity.png",
       "url": "https://www.mediasetinfinity.es/directo/mitele-en-la-calle/",
-      "tvg-id": "enlacalle.es",
+      "tvg-id": "Infinity En la calle HD",
       "tvg-name": "En La Calle"
     },
 
@@ -379,7 +379,7 @@
       "name": "VIAJES (INFINITY)",
       "image": "https://i.ibb.co/67gn4csv/infinity.png",
       "url": "https://www.mediasetinfinity.es/directo/mitele-viajes/",
-      "tvg-id": "viajes.es",
+      "tvg-id": "Infinity Viajes HD",
       "tvg-name": "Viajes"
     },
 
@@ -387,7 +387,31 @@
       "name": "TOP SERIES (INFINITY)",
       "image": "https://i.ibb.co/67gn4csv/infinity.png",
       "url": "https://www.mediasetinfinity.es/directo/mitele-top-series/",
-      "tvg-id": "topseries.es",
+      "tvg-id": "Infinity Top Series HD",
+      "tvg-name": "Top Series"
+    },
+
+    {
+      "name": "LA QUE SE AVECINA (INFINITY+)",
+      "image": "https://i.ibb.co/67gn4csv/infinity.png",
+      "url": "https://www.mediasetinfinity.es/directo/mitele-plus-lqsa/",
+      "tvg-id": "Infinity+ LQSA HD",
+      "tvg-name": "Top Series"
+    },
+
+    {
+      "name": "ACONTRA+ 24H (INFINITY+)",
+      "image": "https://i.ibb.co/67gn4csv/infinity.png",
+      "url": "https://www.mediasetinfinity.es/directo/acontraplus/",
+      "tvg-id": "acontra+ HD",
+      "tvg-name": "Top Series"
+    },
+
+    {
+      "name": "FIGHT SPORTS (INFINITY+)",
+      "image": "https://i.ibb.co/67gn4csv/infinity.png",
+      "url": "https://www.mediasetinfinity.es/directo/fight-sports/",
+      "tvg-id": "FightSports HD",
       "tvg-name": "Top Series"
     },
 
@@ -411,7 +435,7 @@
       "name": "DMAX",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/DMAX_Spain_2023_Logo.svg",
       "url": "https://dmax.marca.com/series/evidencias-de-lo-inexplicable?play=true",
-      "tvg-id": "dmax.es",
+      "tvg-id": "DMAX HD",
       "tvg-name": "DMAX"
     }
   ]
